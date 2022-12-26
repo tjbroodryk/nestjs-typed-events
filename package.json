@@ -61,7 +61,7 @@
     "rxjs": "^7.4.0",
     "supertest": "4.0.2",
     "ts-jest": "^26.4.3",
-    "ts-node": "8.1.0",
+    "ts-node": "10.9.1",
     "tsc-watch": "2.2.1",
     "tsconfig-paths": "3.8.0",
     "tslint": "5.16.0",
