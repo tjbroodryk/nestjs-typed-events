@@ -28,7 +28,7 @@ Uses [zod](https://github.com/colinhacks/zod) object defintions to create typesa
 ## Installation
 
 ```bash
-npm i nestjs-typed-events
+npm i eventemitter2 nestjs-typed-events
 ```
 
 ## Limitations

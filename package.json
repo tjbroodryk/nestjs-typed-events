@@ -32,17 +32,16 @@
   },
   "bugs": "https://github.com/tjbroodryk/nestjs-typed-events",
   "peerDependencies": {
-    "@nestjs/common": "^8.0.0",
-    "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.4.0"
+    "@nestjs/common": "^9.0.0",
+    "eventemitter2": "^6.4.9"
   },
   "dependencies": {
     "@golevelup/nestjs-discovery": "^3.0.0",
     "@golevelup/nestjs-modules": "^0.6.1",
-    "zod": "^3.20.2",
-    "eventemitter2": "^6.4.9"
+    "zod": "^3.20.2"
   },
   "devDependencies": {
+    "eventemitter2": "^6.4.9",
     "type-fest": "^3.4.0",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
