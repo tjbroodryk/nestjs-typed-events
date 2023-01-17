@@ -59,7 +59,7 @@
     "prettier": "2.8.3",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.4.0",
-    "supertest": "4.0.2",
+    "supertest": "6.3.3",
     "ts-jest": "^26.4.3",
     "ts-node": "10.9.1",
     "tsc-watch": "2.2.1",
